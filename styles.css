@@ -1,0 +1,11 @@
+body{
+    background-image: url("tajmahal.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+
+.collage > * {
+    width:182px;
+    border:2px solid yellow;
+    
+}
