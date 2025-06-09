@@ -6,6 +6,10 @@ body{
 
 .collage > * {
     width:500px;
-    border:2px solid yellow;
-    
+    border:2px solid yellow;   
+}
+
+.collage {
+        display: flex;
+    justify-content: center;
 }
